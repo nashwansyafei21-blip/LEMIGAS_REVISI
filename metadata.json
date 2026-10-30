@@ -1,0 +1,6 @@
+{
+  "name": "LEMIGAS - Balai Besar Pengujian Minyak dan Gas Bumi ESDM",
+  "description": "Portal Resmi Balai Besar Pengujian Minyak dan Gas Bumi LEMIGAS, Ditjen Migas, Kementerian Energi dan Sumber Daya Mineral Republik Indonesia. Layanan pengujian migas, laboratorium terakreditasi KAN, simulasi tarif BLU, pelacakan sampel PILT, dan publikasi ilmiah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
